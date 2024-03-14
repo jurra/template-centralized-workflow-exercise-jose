@@ -21,8 +21,7 @@ Drain the gnocchi once cooked and add back to the pot. Add the pesto sauce and s
 
 et voila'!
 
-![image](https://github.com/dcannatella/template-centralized-workflow-exercise-jose/assets/91486112/440c6997-1036-44c9-9741-33fbf427cf41)
-
+<img src="https://www.insidetherustickitchen.com/wp-content/uploads/2020/05/Pesto-Gnocchi-1200px-Inside-the-Rustic-Kitchen-4.jpg" alt="gnocchi_al_pesto" width="500"/>
 
 ## Variations to try
 ### Add a spicy kick
