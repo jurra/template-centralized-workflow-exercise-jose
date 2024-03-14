@@ -1,4 +1,4 @@
-# Gnocchi al pesto
+# Gnocci al pesto
 
 ## Ingredients (for 4 pp.):
 - fresh basil
